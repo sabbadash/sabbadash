@@ -21,7 +21,7 @@ With roots in Eastern Ukraine, I currently live and study in beautiful Edinburgh
 
 * 🎓  Currently studying BEng Computing at Edinburgh Napier University
 * 🖥️  Explore my portfolio at [naz.digital](https://naz.digital) <code style="font-family: monospace; font-weight: bold;">(🚧 still under development 🚧)</code>
-* ✉️  Reach out to me at [nazarii.sabadash@gmail.com](mailto:nazarii.sabadash@gmail.com)
+* ✉️  Reach out to me at [hi@naz.digital](mailto:hi@naz.digital)
 * 🧠  Expanding my skills in Next.js and modern web technologies
 
 
