@@ -13,7 +13,7 @@ With roots in Eastern Ukraine, I currently live and study in beautiful Edinburgh
 
   Driven by a profound interest in creating my own software, I ventured into diverse technologies. I was learning databases, Python, Java, and even PHP, all of which have been avenues for fun and learning, providing me with a foundation in programming.
 
-  Now I am focusing on Next.js. Embracing this beautiful framework, I am committed to mastering its capabilities to build modern and cool websites.
+  Now I am focusing on React and Next.js. Embracing this beautiful frameworks, I am committed to mastering its capabilities to build modern and cool websites.
 
 </details>
 
@@ -22,7 +22,7 @@ With roots in Eastern Ukraine, I currently live and study in beautiful Edinburgh
 * 🎓  Currently studying BEng Computing at Edinburgh Napier University
 * 🖥️  Explore my portfolio at [naz.digital](https://naz.digital) <code style="font-family: monospace; font-weight: bold;">(🚧 still under development 🚧)</code>
 * ✉️  Reach out to me at [hi@naz.digital](mailto:hi@naz.digital)
-* 🧠  Expanding my skills in Next.js and modern web technologies
+* 🧠  Expanding my skills in React & Next.js and modern web technologies
 
 
 ### Languages and Tools
